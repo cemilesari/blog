@@ -47,17 +47,6 @@ Once you download the archive, you will be able find a tutorial page inside it e
 * [Licensing](#licensing)
 * [Useful Links](#useful-links)
 
-## Versions
-
-| HTML | Angular | React | Vue |
-| --- | --- | --- | --- |
-| [![Now UI Kit HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit/opt_nuk_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit?ref=nukr-github-readme)  | [![Now UI Kit Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-angular/opt_nuk_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-angular?ref=nukr-github-readme)  | [![Now UI Kit React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-react/opt_nuk_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-react?ref=nukr-github-readme)  | [![Vue Now UI Kit](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-now-ui-kit/vue-now-ui-kit.jpg)](https://www.creative-tim.com/product/now-ui-kit-react?ref=nukr-github-readme)  
-
-| Login Page | Landing Page | Profile Page  |
-| --- | --- | ---  |
-| [![Login Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-react/login.png)](https://demos.creative-tim.com/now-ui-kit-react/#/login-page?ref=nukr-github-readme)  | [![Landing Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-react/landing.png)](https://demos.creative-tim.com/now-ui-kit-react/#/landing-page?ref=nukr-github-readme)  | [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-react/profile.png)](https://demos.creative-tim.com/now-ui-kit-react/#/profile-page?ref=nukr-github-readme)  
-
-[View More](https://demos.creative-tim.com/now-ui-kit-react/#/index?ref=nukr-github-readme)
 
 ## Quick start
 
@@ -140,20 +129,6 @@ now-ui-kit-react
             └── Typography.js
 ```
 
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
-
-
-## Resources
-- Demo: <http://demos.creative-tim.com/now-ui-kit-react/#/index?ref=nukr-github-readme>
-- Download Page: <https://www.creative-tim.com/product/now-ui-kit-react?ref=nukr-github-readme>
-- Documentation: <https://demos.creative-tim.com/now-ui-kit-react/#/documentation/introduction?ref=nukr-github-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=nukr-github-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=nukr-github-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/now-ui-kit-react/issues?ref=creativetim)
 
 
 **Dashboards:**
@@ -177,25 +152,12 @@ We use GitHub Issues as the official bug tracker for the Now UI Kit React. Here 
 [CHANGELOG]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE.md
 
-## Useful Links
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=creativetim)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=nukr-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=nukr-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=nukr-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=nukr-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=nukr-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=nukr-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=nukr-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=nukr-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=nukr-github-readme)
 
 ### Social Media
 
 Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
 
 Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
-
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
