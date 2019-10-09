@@ -86,16 +86,6 @@ now-ui-kit-react
 
 
 
-
-## Licensing
-
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=nukr-github-readme)
-
-[CHANGELOG]: ./CHANGELOG.md
-[LICENSE]: ./LICENSE.md
-
-
-
 ### Social Media
 
 Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
