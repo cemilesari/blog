@@ -10,30 +10,6 @@ Create awesome, lifelike prototypes with InVision and Now so your users can expe
 
 To get the PSD and Sketch files, please visit [Invision](https://www.invisionapp.com/inside-design/design-resources/now/?ref=creativetim). We used 100 Icons from our friends from Nucleo Icons, check their [12.000 icons here](https://nucleoapp.com/?ref=1712).
 
-### React Hooks support
-
-Now UI Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it fully supports React Hooks.
-
-
-### Bootstrap 4 support
-
-Now UI Kit React is built on top of Bootstrap 4 using React, React Hooks, create-react-app and Reactstrap. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4, React or Reactstrap project; you can just import the Now UI Kit React style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
-
-
-### Examples
-
-Now UI Kit React contains some pages already designed and implemented. Here is the list with the pages available. We are also working on more example pages, that you will be able to access no matter the version you download.
-
-
-* [Landing Page](https://demos.creative-tim.com/now-ui-kit-react/#/landing-page?ref=nukr-github-readme)
-* [Register](https://demos.creative-tim.com/now-ui-kit-react/#/register-page?ref=nukr-github-readme)
-* [Profile Page](https://demos.creative-tim.com/now-ui-kit-react/#/profile-page?ref=nukr-github-readme)
-
-Tutorial and components
-
-Once you download the archive, you will be able find a tutorial page inside it explaining how to start using it. You can also check the [documentation online](https://demos.creative-tim.com/now-ui-kit-react/#/documentation/introduction?ref=nukr-github-readme).
-
-
 ## Table of Contents
 
 * [Versions](#versions)
@@ -55,9 +31,6 @@ Once you download the archive, you will be able find a tutorial page inside it e
 3.  Type `npm install` in terminal/console in the source folder where `package.json` is located
 4.  You will find all the branding colors inside `src/assets/scss/now-ui-kit/_variables.scss`. You can change them with a `HEX` value or with other predefined variables.
 5.  Run in terminal `npm start`.
-
-## Documentation
-The documentation for the Now UI Kit React is hosted at our [website](https://demos.creative-tim.com/now-ui-kit-react/#/documentation/introduction?ref=nukr-github-readme).
 
 
 ## File Structure
@@ -131,19 +104,6 @@ now-ui-kit-react
 
 
 
-**Dashboards:**
-
-| HTML | React | Angular |
-| --- | --- | ---  |
-| [![Now UI Dashboard  HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard/opt_nud_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard?ref=nukr-github-readme) | [![Now UI Dashboard  React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-react/opt_nud_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-react?ref=nukr-github-readme) | [![ Now UI Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-angular/opt_nud_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-angular?ref=nukr-github-readme)
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Now UI Kit React. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Now UI Kit React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=nukr-github-readme).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
 
